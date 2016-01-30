@@ -1,0 +1,22 @@
+Reflections
+
+# How could having easy access to the entire history of a file make you a 
+more efficient programmer in the long term?
+
+## Very often you might be in the situation that your program was working until the moment that you did some changes. When these changes are substantial it would be of big help to have quick access to the old version of your code.
+
+# What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+## One of the pros is that the history of my commits will have a logic. Each saved file has some concrete change compared to the previous. A con is that for this system to work well one has to always remember to commit the changes.
+
+# Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+## To have a version control system that saves multiple files in one commit is useful when programming but not necessarilly useful in other contexts. Google Docs should be a tool to treat mostly single files, in which case version control for multiple files is not needed.
+
+# How can you use the commands git log and git diff to view the history of files?
+
+## I can use git log to see the history of all my commits and I can use git diff to compare two commits.
+
+# How might using version control make you more confident to make changes that could break something?
+
+## Since it is very easy to come back to previous stable versions of my code, one is free to try and make mistakes.
